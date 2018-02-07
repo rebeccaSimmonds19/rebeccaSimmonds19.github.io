@@ -12,5 +12,4 @@ I have started this blog to help discuss and spread my ideas and thoughts on the
 I hope to come across as a friendly, open source kind of gal and would love to connect to any like minded people. I am very passionate about helping more woman into tech
 so if you are looking for any advice or even a general overview of what it is like feel free to get in touch.
 
-[Email] (rmsimmonds1919@gmail.com)
-[Github] (https://github.com/rebeccaSimmonds19)
+Contact me: [Email](rmsimmonds1919@gmail.com)
