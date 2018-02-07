@@ -12,4 +12,4 @@ so if you are looking for any advice or even a general overview of what it is li
 
 Contact me: [Email](rmsimmonds1919@gmail.com)
 
-Blog Post 1: [DevConf](https://github.com/rebeccaSimmonds19/rebeccaSimmonds19.github.io/blob/master/devConf.md)
+Blog Post 1: [DevConf](devConf.md)
