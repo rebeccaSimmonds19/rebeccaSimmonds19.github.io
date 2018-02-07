@@ -6,7 +6,7 @@ The three days proved to have many interesting and thought provoking talks, two 
 I was also lucky enough to participate in a demo booth, put together by my team to show case [radanalyticsio](https://radanalytics.io/).
 This enabled me to talk to people from around the world, about a variety of topics and projects that were being investigated and developed.
 
-## The Booth
+## Fast Neural Network Demonstration:
 
 At the conference my team (daikon) had a booth with a fast neural network demonstration.
 This demonstration used the current image from the web camera and a pattern, which was chosen at random every five minutes.
@@ -24,7 +24,7 @@ in ML/AI techniques simply and easily. We hope to promote the development of int
 on OpenShift. If you get the chance I would advise taking a look at the site as there are some great tutorials (which I have been through), which give a great insight into deploying
 your own cloud native app, ML techniques and tools, as well as emerging technologies like [Apache Spark](https://spark.apache.org/) and [Tensorflow](https://www.tensorflow.org/).
 
-## Keynote 1:
+## Open Source:
 
 This was a nice keynote, which went through open source and the philosophy/idea behind it.
 It pointed out these main points for open source to succeed:
@@ -36,7 +36,7 @@ Also mentioned was the need for balance, open source repositories such as Github
 However, if people do not check what is out there then they can start to produce duplicate projects, which is not very helpful. Therefore, there needs to be a balance of
 innovation and community collaboration. The challenge to this is standards, how can we use interfaces and APIs to reuse software and expand on the knowledge we all have collaboratively.
 
-## Thoughts on AI
+## Thoughts on AI:
 
 This talk asked the question "where are we going with AI?"" It spoke about automation and how this will change the road of human labour. Are we entering a new AI revolution like the
 industrial revolution and what will it mean for peoples jobs?
@@ -44,7 +44,7 @@ I firmly believe AI will have a massive impact on the world today and it will ha
 place. From a developer perspective, it seems that the main impact will be on automation, security, monitoring and testing. This will enable
 the developer more time for innovation and I think lead to a hybrid developer, which will be a mix of data scientist and computer scientist.
 
-## Conclusion
+## Conclusion:
 
 I came away from this conference thinking:
 
