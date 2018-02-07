@@ -1,6 +1,6 @@
-# Bio:
+# About Me:
 
-Hi there! My name is Rebecca Simmonds and I am  a senior software engineer at Red Hat.
+Hi there! My name is Becky and I am  a senior software engineer at Red Hat.
 Here I am part of an emerging technology group, which comprises of both data scientists and developers.
 I completed a PhD at Newcastle University, England, UK, in which I developed a platform for scalable, geospatial and temporal analysis of Twitter data.
 After this I moved to a small startup company as a Java developer creating solutions to improve performance for a CV analyser.
