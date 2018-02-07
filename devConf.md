@@ -1,4 +1,4 @@
-#DevConf.cz 2018
+# DevConf.cz 2018
 
 I recently went to DevConf for the first time, this is an open source conference for like-minded developers and engineers.
 I found it to be a very friendly and community driven experience.
