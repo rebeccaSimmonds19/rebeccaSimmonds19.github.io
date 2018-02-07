@@ -21,7 +21,7 @@ ML techniques and are totally new to the subject you should take a look.
 
 I also spoke about the project I am currently working on: [radanalyticsio](https://radanalytics.io/). This project aims to enable ML techniques for people who have little or no training
 in ML/AI techniques simply and easily. We hope to promote the development of intelligent applications by deploying maintainable and testable microservices through using container technology
-on OpenShift. If yo get the chance i would advice taking a look at the site as there are some great tutorials (which I have been through), which give a great insight into deploying
+on OpenShift. If you get the chance I would advise taking a look at the site as there are some great tutorials (which I have been through), which give a great insight into deploying
 your own cloud native app, ML techniques and tools, as well as emerging technologies like [Apache Spark](https://spark.apache.org/) and [Tensorflow](https://www.tensorflow.org/).
 
 ## Keynote 1:
