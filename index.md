@@ -11,3 +11,5 @@ I hope to come across as a friendly, open source kind of gal and would love to c
 so if you are looking for any advice or even a general overview of what it is like feel free to get in touch.
 
 Contact me: [Email](rmsimmonds1919@gmail.com)
+
+Blog Post 1: [DevConf]()
