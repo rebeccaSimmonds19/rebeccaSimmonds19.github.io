@@ -24,9 +24,9 @@ in ML/AI techniques simply and easily. We hope to promote the development of int
 on OpenShift. If you get the chance I would advise taking a look at the site as there are some great tutorials (which I have been through), which give a great insight into deploying
 your own cloud native app, ML techniques and tools, as well as emerging technologies like [Apache Spark](https://spark.apache.org/) and [Tensorflow](https://www.tensorflow.org/).
 
-## Open Source:
+## Open Source Philosophy:
 
-This was a nice keynote, which went through open source and the philosophy/idea behind it.
+I listened to a nice keynote, which went through open source and the philosophy/idea behind it.
 It pointed out these main points for open source to succeed:
 - **Collaboration** - generating ideas with others and collaborating on something you can't do on your own.
 - **Trust** - you need to trust that people want to move forward with the project.
