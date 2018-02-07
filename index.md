@@ -1,6 +1,4 @@
-# Becky's Blog Base
-
-## Bio:
+# Bio:
 
 Hi there! My name is Rebecca Simmonds and I am  a senior software engineer at Red Hat.
 Here I am part of an emerging technology group, which comprises of both data scientists and developers.
