@@ -54,4 +54,4 @@ I came away from this conference thinking:
 
 So all in all the tech scene is currently a **VERY** interesting place to be, with tones of fabulous new ideas and an explosion of growth in the data science sector.
 I would advice anyone to get involved whether it be for work or for fun and to have a little look at our website or some free courses to help expand your knowledge in the area
-- and hopefully you will find it as interesting and as exciting as I do!
+-and hopefully you will find it as interesting and as exciting as I do!
