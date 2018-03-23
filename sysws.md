@@ -14,7 +14,7 @@ You should always aim to have at least one run through in front of other people 
 
 ALWAYS check the time allowance you have and make sure you can run to that. There is nothing worse than when people over run and miss out some of the most interesting stuff in their talk! If you can have a timer on your laptop/watch that is a great idea, so that you can tell whether you are on time or going over.
 
-## 4) Cheat:
+## 4) A useful cheat:
 
 I always bring some water up to the stage, this means if I get a dry mouth OR even if I panic I have time and a natural way of taking a break. There is nothing worse than trying to give a talk with a dry mouth! Also if you blank on your slides or have a panic you can get a drink of water and have a few seconds break without the audience knowing what is going on - you still look professional.
 
