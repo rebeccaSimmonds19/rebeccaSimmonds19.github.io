@@ -14,4 +14,4 @@ Contact me: [Email](rmsimmonds1919@gmail.com)
 
 ## Blog Post 1: [DevConf](devConf.md)
 ## Blog Post 2: [Tips For Talks](sysws.md)
-## Blog Post 3: [Open source talk](turinginst.md)
+## Blog Post 3: [Open source talk](turingInst.md)
